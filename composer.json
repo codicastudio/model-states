@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/modelstates",
+    "name": "codica-studio/modelstates",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/modelstates",
+    "homepage": "https://github.com/codica-studio/modelstates",
     "license": "MIT",
     "authors": [
         {
